@@ -20,7 +20,7 @@ My core focus is understanding how software is architected from the ground up so
 ### 📌 Current Roadmap & Goals
 
 - [x] Responsive Frontend Engineering (Semantic HTML, Tailwind, Vanilla JS)
-- [x] Full-Stack Integration (React UI + Node/Express microservices & auth)
+- [ ] Full-Stack Integration (React UI + Node/Express microservices & auth)
 - [ ] Secure Code Review & Hardening APIs
 - [ ] Web Application Penetration Testing & CTF challenges
 
